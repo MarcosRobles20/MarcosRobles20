@@ -2,12 +2,12 @@
 
 Marcos Robles😃
 
-🧐 About me 
+ ### 🧐 About me 
 
 I am a Computer Systems Engineering student at the Instituto Tecnológico de Hermosillo, currently in my 8th semester. Throughout my academic career, I've explored various technology fields, gaining a solid foundation in networks, SQL databases, data science, machine learning, web development, and programming across multiple languages and platforms.
 
 
- 🌱 I am expanding my knowledge and skills in cutting-edge and highly demanded technologies:
+ ### 🌱 I am expanding my knowledge and skills in cutting-edge and highly demanded technologies:
 
 
 - ☁️ AWS Cloud: Learning about managing cloud infrastructures and deploying scalable solutions.
@@ -22,7 +22,7 @@ I am a Computer Systems Engineering student at the Instituto Tecnológico de Her
 
 
 
-💻⚡ Technologies and Tools
+ ### 💻⚡ Technologies and Tools
 
   - 💾SQL Databases: Practical knowledge in setting up and managing databases with MySQL.
       
@@ -43,21 +43,18 @@ I am a Computer Systems Engineering student at the Instituto Tecnológico de Her
 
 
 
-📫 Contact Me
+ ### 📫 Contact Me
 
 LinkedIn [LinkedIn](https://www.linkedin.com/in/marcos-robles-nava-605868304/)
 
 Mail - marcosroblesnava@gmail.com
 
 
-🔍 Where to Find Me
+ ### 🔍 Where to Find Me
 
 GitHub: [MarcosRobles20](https://github.com/MarcosRobles20/MarcosRobles20)
 
-
-Personal Portfolio: in process...⌛
-
-⚡ Fun fact:
+ ### ⚡ Fun fact:
 - I'm a huge fan of card games like poker 🃏, and I enjoy following NBA games 🏀. Though I can't play basketball due to injuries, I'd love to hit the court someday!
 
 
