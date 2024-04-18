@@ -30,7 +30,7 @@ I am a Computer Systems Engineering student at the Instituto Tecnológico de Her
       
   - 🌐Big Data: Currently exploring big data concepts and applications in my coursework.
       
-  - ☕Java: as my primary programming language.
+  - ☕Java: Developed a compiler as part of a significant project, using Java as my primary programming language.
        
   - 🌐Networking: Theoretical knowledge complemented by hands-on experience in setting up network infrastructure,   including cable management and RJ45 connector crimping.
       
