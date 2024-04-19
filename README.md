@@ -49,7 +49,7 @@ LinkedIn [LinkedIn](https://www.linkedin.com/in/marcos-robles-nava-605868304/)
 
 Mail - marcosroblesnava@gmail.com
 
-CV - [CV](https://drive.google.com/file/d/14G3ACv7PTw8HGP6Ot71aZ5G_9oqSST58/view?usp=sharing)
+CV - [CV](https://drive.google.com/file/d/1XxqPc88klxGPuI4fHx6cVmvNBQ32HJ1u/view?usp=sharing)
 
 
  ### 🔍 Where to Find Me
