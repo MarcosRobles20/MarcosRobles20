@@ -43,7 +43,7 @@ I am a Computer Systems Engineering student at the Instituto Tecnológico de Her
 
  ### 📫 Contact Me
 
-LinkedIn [LinkedIn](https://www.linkedin.com/in/marcos-robles-nava-605868304/)
+LinkedIn [LinkedIn](https://www.linkedin.com/in/marcos-robles-nava)
 
 Mail - marcosroblesnava@gmail.com
 
