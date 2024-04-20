@@ -1,5 +1,3 @@
-### Hi there 👋
-
 Marcos Robles😃
 
  ### 🧐 About me 
@@ -49,7 +47,7 @@ LinkedIn [LinkedIn](https://www.linkedin.com/in/marcos-robles-nava-605868304/)
 
 Mail - marcosroblesnava@gmail.com
 
-CV - [CV](https://drive.google.com/file/d/1XxqPc88klxGPuI4fHx6cVmvNBQ32HJ1u/view?usp=sharing)
+CV - [CV](https://drive.google.com/file/d/1xKJ2md4egngYTEOQBopYmvDP04e6DJQH/view?usp=sharing)
 
 
  ### 🔍 Where to Find Me
