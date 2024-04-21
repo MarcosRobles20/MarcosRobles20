@@ -1,8 +1,7 @@
-Marcos Robles😃
 
  ### 🧐 About me 
 
-I am a Computer Systems Engineering student at the Instituto Tecnológico de Hermosillo, currently in my 8th semester. Throughout my academic career, I've explored various technology fields, gaining a solid foundation in networks, SQL databases, data science, machine learning, web development, and programming across multiple languages and platforms.
+Hi!, I'm Marcos Robles😃 and I am a Computer Systems Engineering student at the Instituto Tecnológico de Hermosillo, currently in my 8th semester. Throughout my academic career, I've explored various technology fields, gaining a solid foundation in networks, SQL databases, data science, machine learning, web development, and programming across multiple languages and platforms.
 
 
  ### 🌱 I am expanding my knowledge and skills in cutting-edge and highly demanded technologies:
