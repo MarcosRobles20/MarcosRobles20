@@ -1,60 +1,34 @@
 
- ### 🧐 About me 
+ ### 🧐 Sobre mi 
 
-Hi!, I'm Marcos Robles😃 and I am a Computer Systems Engineering student at the Instituto Tecnológico de Hermosillo, currently in my 8th semester. Throughout my academic career, I've explored various technology fields, gaining a solid foundation in networks, SQL databases, data science, machine learning, web development, and programming across multiple languages and platforms.
-
-
- ### 🌱 I am expanding my knowledge and skills in cutting-edge and highly demanded technologies:
+¡Hola! Soy Marcos Robles😃 y soy estudiante de Ingeniería en Sistemas Computacionales en el Instituto Tecnológico de Hermosillo, actualmente en mi 8º semestre. A lo largo de mi carrera académica, he explorado diversas áreas tecnológicas, obteniendo una sólida base en redes, bases de datos SQL, ciencia de datos, aprendizaje automático, desarrollo web y programación en múltiples lenguajes y plataformas como Java y C#.
 
 
-- ☁️ AWS Cloud: Learning about managing cloud infrastructures and deploying scalable solutions.
-    
-- 🤖 Machine Learning: Delving into predictive models and learning algorithms for data applications.
-    
-- 📊Big Data: Exploring tools and techniques for handling and analyzing large data sets.
-    
-- 🔒 Networks: Strengthening my fundamentals and learning about advanced configurations and security.
-    
-- 👨‍💻Programming: Continuing my formal education and online courses in various programming languages.
+ ### 💻⚡ Tecnologías y Herramientas
+- 💾 Bases de Datos SQL: Conocimiento práctico en la configuración y gestión de bases de datos con MySQL.
 
+- 🤖 Aprendizaje Automático: Comprensión básica a partir de proyectos académicos.
 
+- 🌐 Big Data: Actualmente explorando conceptos y aplicaciones de big data en mi curso.
 
- ### 💻⚡ Technologies and Tools
+- ☕ Java: Desarrollé un compilador como parte de un proyecto significativo, utilizando Java como mi lenguaje de programación principal.
 
-  - 💾SQL Databases: Practical knowledge in setting up and managing databases with MySQL.
-      
-  - 🤖Machine Learning: Basic understanding from academic projects.
-      
-  - 🌐Big Data: Currently exploring big data concepts and applications in my coursework.
-      
-  - ☕Java: Developed a compiler as part of a significant project, using Java as my primary programming language.
-       
-  - 🌐Networking: Theoretical knowledge complemented by hands-on experience in setting up network infrastructure,   including cable management and RJ45 connector crimping.
-      
-  - 🖥️Software Development:
-  Windows Forms & C#: Gained practical experience in building applications with Windows Forms using Visual        Studio.
-      
-  - 🎮Game Programming: Introductory experience in game development.
-      
-  - 🌐Web Development: Created a basic CRUD application using JavaScript, PHP, HTML, and CSS.
+- 🌐 Redes: Conocimiento teórico complementado con experiencia práctica en la configuración de infraestructuras de red, incluyendo gestión de cables y crimpado de conectores RJ45.
 
+- 🖥️ Desarrollo de Software: Windows Forms & C#: Experiencia práctica en la construcción de aplicaciones con Windows Forms usando Visual Studio.
 
+- 🌐 Desarrollo Web: Creé una aplicación CRUD básica utilizando JavaScript, PHP, HTML y CSS.
 
- ### 📫 Contact Me
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,php,java,cs,aws,python,linux,bash)](https://skillicons.dev)
+ ### 📫 Contacto
 
 LinkedIn [LinkedIn](https://www.linkedin.com/in/marcos-robles-nava)
 
-Mail - marcosroblesnava@gmail.com
+Correo - marcosroblesnava@gmail.com
 
-CV - [CV](https://drive.google.com/file/d/1xKJ2md4egngYTEOQBopYmvDP04e6DJQH/view?usp=sharing)
-
-
- ### 🔍 Where to Find Me
+ ### 🔍 Encuentrame
 
 GitHub: [MarcosRobles20](https://github.com/MarcosRobles20/MarcosRobles20)
 
- ### ⚡ Fun fact:
-- I'm a huge fan of card games like poker 🃏, and I enjoy following NBA games 🏀. Though I can't play basketball due to injuries, I'd love to hit the court someday!
-
-
-
+ ### ⚡ Datos curiosos:
+- Soy un gran fanático de los juegos de cartas como el póker 🃏 y me gusta ver los partidos de la NBA 🏀. Aunque no puedo jugar baloncesto debido a lesiones, me encantaría volver a la cancha algún día.
