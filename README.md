@@ -19,7 +19,7 @@
 
 - 🌐 Desarrollo Web: Creé una aplicación CRUD básica utilizando JavaScript, PHP, HTML y CSS.
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,php,java,cs,aws,python,linux,bash)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,php,java,cs,aws,python,linux,bash,mysql)](https://skillicons.dev)
  ### 📫 Contacto
 
 LinkedIn [LinkedIn](https://www.linkedin.com/in/marcos-robles-nava)
