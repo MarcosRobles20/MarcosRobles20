@@ -9,12 +9,10 @@ Me gusta aprender nuevas tecnologías y aplicar mis conocimientos a problemas re
 
 [![My Skills](https://skillicons.dev/icons?i=js,angular,net,ts,azure,git,cs,mysql,html,css,java,aws,python,linux,bash,)](https://skillicons.dev)
  ### 📫 Contacto
-
 LinkedIn [LinkedIn](https://www.linkedin.com/in/marcos-robles-nava)
 
 Correo - marcosroblesnava@gmail.com
 
  ### 🔍 Encuentrame
-
 GitHub: [MarcosRobles20](https://github.com/MarcosRobles20/MarcosRobles20)
 
