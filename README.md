@@ -7,7 +7,7 @@ He trabajado en la integración de OCR e IA para el reconocimiento y extracción
 
 Me gusta aprender nuevas tecnologías y aplicar mis conocimientos a problemas reales. Siempre busco mejorar mis habilidades y aportar en proyectos donde pueda crecer profesionalmente.
 
-[![My Skills](https://skillicons.dev/icons?i=js,angular,net,ionic,cs,mysql,html,css,java,aws,python,linux,bash,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,angular,net,ts,azure,git,cs,mysql,html,css,java,aws,python,linux,bash,)](https://skillicons.dev)
  ### 📫 Contacto
 
 LinkedIn [LinkedIn](https://www.linkedin.com/in/marcos-robles-nava)
