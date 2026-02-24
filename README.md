@@ -8,7 +8,6 @@ Additionally, I have worked with data science and visualization, using Power BI 
 
 My goal is to deliver scalable and efficient solutions while continuously learning and applying new technologies to real-world projects.
 
-
 [![My Skills](https://skillicons.dev/icons?i=js,angular,net,ts,azure,git,cs,mysql,html,css,java,aws,python,linux,bash,)](https://skillicons.dev)
  ### 📫 Contact
 LinkedIn [LinkedIn](https://www.linkedin.com/in/marcos-robles-nava)
@@ -24,7 +23,6 @@ Tengo experiencia creando e integrando microservicios con multiples sistemas.
 También cuento con experiencia en ciencia de datos y visualización, utilizando Power BI y Tableau para transformar información en reportes claros y accionables.
 
 Mi objetivo es aportar soluciones escalables y eficientes, mientras sigo aprendiendo y aplicando nuevas tecnologías en proyectos con impacto real.
-
 
 [![My Skills](https://skillicons.dev/icons?i=js,angular,net,ts,azure,git,cs,mysql,html,css,java,aws,python,linux,bash,)](https://skillicons.dev)
  ### 📫 Contacto
